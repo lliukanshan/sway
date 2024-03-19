@@ -17,8 +17,6 @@ Also view the technical reference for the Sway programming language: <https://fu
 
 ## Building from Source
 
-This section is for developing the Sway compiler and toolchain. For developing contracts and using Sway, see the above documentation section.
-
 ### Dependencies
 
 Sway is built in Rust. To begin, install the Rust toolchain following instructions at <https://www.rust-lang.org/tools/install>. Then configure your Rust toolchain to use Rust `stable`:
